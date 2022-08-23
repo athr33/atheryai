@@ -1,0 +1,3 @@
+else if (FormatInput.includes("text"))
+		ResponseText_val.innerHTML = "response";
+  
